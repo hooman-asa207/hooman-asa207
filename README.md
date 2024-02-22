@@ -3,6 +3,7 @@ const me =
   name: "Hooman",
   lastName: "Asadian",
   age: 17,
+  level: "Junior"
   skills: ["HTML", "CSS", "Tailwind", "JS"]
 }
 ```
