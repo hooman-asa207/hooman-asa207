@@ -1,7 +1,7 @@
 # Welcome
 
 ```javascript
-const me = 
+const me = {
   name: "Hooman",
   lastName: "Asadian",
   age: 17,
