@@ -5,7 +5,7 @@ const me = {
   name: "Hooman",
   lastName: "Asadian",
   age: 17,
-  level: "Junior"
+  level: "Junior",
   skills: ["HTML", "CSS", "Tailwind", "JS"]
 }
 ```
